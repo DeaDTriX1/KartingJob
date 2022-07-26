@@ -15,7 +15,6 @@ client_scripts {
     "src/menu/windows/*.lua",
 
 	'@es_extended/locale.lua',
-    'locales/fr.lua',
     'client/cl_boss_job.lua',
     'client/client_job.lua',
     'client/function.lua',
@@ -26,7 +25,6 @@ client_scripts {
 server_scripts {
 	'@mysql-async/lib/MySQL.lua',
 	'@es_extended/locale.lua',
-    'locales/fr.lua',
     'server/server_job.lua',
     'shared/config.lua',
 }
